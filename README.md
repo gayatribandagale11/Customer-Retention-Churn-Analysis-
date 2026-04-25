@@ -71,3 +71,4 @@ Gayatri Bandagale
 
 ## 🔗 Connect with Me
 LinkedIn:
+https://www.linkedin.com/in/gayatri-bandagale-843882401
