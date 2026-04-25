@@ -1,4 +1,5 @@
-# 📊 Customer Churn Analysis (Excel)
+# 📊 FUTURE_DS_02
+Customer Churn Analysis (Excel)
 
 ## 📌 Project Overview
 This project analyzes customer churn data to identify patterns, retention drivers, and business insights.
