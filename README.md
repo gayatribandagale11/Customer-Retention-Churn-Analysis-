@@ -66,8 +66,8 @@ Encourage auto-payment methods
 Provide offers for high-value customers
 Focus on early-stage engagement
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Gayatri Bandagale
 
-##🔗 Connect with Me
+## 🔗 Connect with Me
 LinkedIn:
