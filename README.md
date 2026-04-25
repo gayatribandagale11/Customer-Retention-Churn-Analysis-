@@ -28,6 +28,8 @@ This project analyzes customer churn data to identify patterns, retention driver
 
 ## 📸 Dashboard Preview
 <img width="1325" height="534" alt="image" src="https://github.com/user-attachments/assets/fa4458b2-1224-4ca7-88c9-d28b67a874fb" />
+<img width="1327" height="299" alt="image" src="https://github.com/user-attachments/assets/fcae30b9-3a30-4e95-8c30-71dd7e0e294e" />
+
 
 ## 🎯 What I Learned
 Performed customer churn analysis using Excel
